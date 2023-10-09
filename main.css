@@ -1,0 +1,17 @@
+img {
+    width: 200px ;
+    height: 200px;
+}
+p {
+    margin-bottom:0px;
+    margin-top: 0px;
+}
+p.mot {
+    margin-left: 40px ;
+    margin-top: 15px;
+}
+ul {
+    margin-top: 0;
+    margin-bottom: 0;
+
+}
